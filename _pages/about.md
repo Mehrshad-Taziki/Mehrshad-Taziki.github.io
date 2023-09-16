@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a fourth year undergraduate student in Computer Science at Sharif University of Technology, and I'm planning to start my graduate studies in the Fall of 2024.
 
-I am generally intrested in Theoretical computer science my main areas of intrest include,
+I am generally intrested in Theoretical Computer Science. my main areas of intrest include,
 
 *  Combinatorial Optimization
 *  Approximation Algorithms
