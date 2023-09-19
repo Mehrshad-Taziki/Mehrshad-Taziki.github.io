@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Summer Research Program
+======
+**Subject:** 
+Relative Fractional Independence Number and It's Applications
+
+**Mentor:**
+[Professor. Amin (Aminzadeh) Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/)
+
+**Location:**
+Institute for Theoretical Computer Science and Communications, Chinese University of Hong Kong
+
+**Description:**
+I am currently engaged in research on the concept of relative fractional independence numbers and their practical implications in approximating the Shannon capacity of graphs. I have developed methods for computing this number within specific graph families. This work is still **ongoing**, and I am continually exploring new avenues in this exciting field of study.
+
 Combinatorial Optimization Research Project
 ======
 **Subject:** 
