@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year undergraduate student majoring in Computer Science at Sharif University of Technology. I plan to begin my graduate studies in the Fall of 2024.
+Hello and welcome! I'm currently a fourth-year undergraduate student majoring in Computer Science at Sharif University of Technology. I plan to begin my graduate studies in the Fall of 2024.
 
 I have a strong passion for Theoretical Computer Science, with particular interests in the following areas:
 
@@ -18,3 +18,6 @@ I have a strong passion for Theoretical Computer Science, with particular intere
 * Theory of Computation
 
 Outside of my academic pursuits, I enjoy hiking and experimenting with various coffee creations.
+
+Feel free to explore my experiences, interests, and projects through this platform.
+
