@@ -15,27 +15,27 @@ National Organization for the Development of Exceptional Talents (Sampad). **Ong
 Teaching Assistant for Data Structures and Algorithms
 ======
 Sharif University of Technology, Tehran, Iran. **(Fall 2023)**
-* Organized homework and problem-solving classes. Instructor: Prof. Shahram Khazaei
+* Organized homework and problem-solving classes. Instructor: Prof. [Shahram Khazaei](http://math.sharif.ir/faculties/khazaei)
 
 Teaching Assistant for Theory of Languages and Automata
 ======
 Sharif University of Technology, Tehran, Iran. **(Fall 2023)**
-* Organized homework and problem-solving classes. Instructor: Prof. Amir Daneshgar
+* Organized homework and problem-solving classes. Instructor: Prof. [Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)
 
 Teaching Assistant for Foundation of Mathematics
 ======
 Sharif University of Technology, Tehran, Iran. **(Spring 2023)**
-* Organized homework and class quizzes. Instructor: Prof. Mohammad Ardeshir
+* Organized homework and class quizzes. Instructor: Prof. [Mohammad Ardeshir](http://math.sharif.ir/faculties/mardeshir)
 
 Head Teaching Assistant for Basic Programming
 ======
 Sharif University of Technology, Tehran, Iran. **(Fall 2022)**
-* Organized homework, exams, and problem-solving classes. Instructor: Prof. Mojtaba Tefagh
+* Organized homework, exams, and problem-solving classes. Instructor: Prof. [Mojtaba Tefagh](https://sharif.edu/~mtefagh/)
 
 Teaching Assistant for Data Structures and Algorithms
 ======
 Sharif University of Technology, Tehran, Iran. **(Fall 2022)**
-* Organized homework and problem-solving classes. Instructor: Prof. Alireza Zarei
+* Organized homework and problem-solving classes. Instructor: Prof. [Alireza Zarei](http://sharif.ir/~zarei/)
 
 Head Teaching Assistant for Linear Algebra
 ======
