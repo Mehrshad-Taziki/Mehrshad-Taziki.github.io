@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /researchs/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /research
+  - /researchs
 ---
 
 {% include base_path %}
@@ -12,7 +12,7 @@ redirect_from:
 Summer Research Program
 ======
 **Subject:** 
-Relative Fractional Independence Number and It's Applications
+Relative Fractional Independence Number and Its Applications
 
 **Mentor:**
 [Professor. Amin (Aminzadeh) Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/)
