@@ -21,7 +21,7 @@ Relative Fractional Independence Number and Its Applications
 Institute for Theoretical Computer Science and Communications, Chinese University of Hong Kong
 
 **Description:**
-I am currently engaged in research on the concept of relative fractional independence numbers and their practical implications in approximating the Shannon capacity of graphs. I have developed methods for computing this number within specific graph families. This work is still **ongoing**, and I am continually exploring new avenues in this exciting field of study. You can find my current results [in here](/files/Relative_Fractional_Packing_Number_and_Its_Properties.pdf).
+I am currently engaged in research on the concept of relative fractional independence numbers and their practical implications in approximating the Shannon capacity of graphs. I have developed methods for computing this number within specific graph families. This work is still **ongoing**, and I am continually exploring new avenues in this exciting field of study. You can find my current results [in here](/files/Relative_Fractional_Independence_Project.pdf).
 
 Combinatorial Optimization Research Project
 ======
