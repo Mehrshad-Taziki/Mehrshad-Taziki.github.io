@@ -9,7 +9,7 @@ author_profile: true
 
 Iran Olympiad in Informatics Teacher
 ======
-National Organization for the Development of Exceptional Talents (Sampad). **Fall 2021-Fall 2022**
+National Organization for the Development of Exceptional Talents (Sampad). **Sep 2021-Sep 2022**
 * Taught Combinatorics, Graph Theory, and Algorithms Design.
 
 Teaching Assistant for Data Structures and Algorithms
