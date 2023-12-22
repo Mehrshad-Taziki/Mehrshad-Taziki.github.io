@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Bachelor's Project
+======
+**Subject:** 
+Probabilistic K-Center Problem
+
+**Mentor:**
+[Professor. Shahram Khazaei](http://math.sharif.ir/faculties/khazaei)
+
+**Location:**
+Sharif University of Technology, Tehran, Iran
+
+**Description:**
+I am currently doing by Bachelor’s project on the Probabilistic K-Center problem. In this variant of the famous K-Center probelm, each client has a probability distribution over different locations rather than a deterministic single location. The objectivel is to allocate each client to a center as well as decide which k centers to open. The ultimate goal is to minimize the expected value of the K-center objective function across all possible realizations. We aim to improve upon the previous approximation factors for this problem by using LP rounding techniques. I will put the results for this research on here as soon as they are avaiable.
+
 Summer Research Program
 ======
 **Subject:** 
