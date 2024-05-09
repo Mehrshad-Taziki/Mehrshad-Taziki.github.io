@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Iran Olympiad in Informatics Teacher
-======
-National Organization for the Development of Exceptional Talents (Sampad). **Sep 2021-Sep 2022**
-* Taught Combinatorics, Graph Theory, and Algorithms Design.
-
 Teaching Assistant for Design of Algorithms
 ======
 Sharif University of Technology, Tehran, Iran. **(Fall 2023)**
