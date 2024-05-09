@@ -14,9 +14,6 @@ Bachelor's Project
 **Subject:** 
 Probabilistic K-Center Problem
 
-**Mentor:**
-[Professor. Shahram Khazaei](http://math.sharif.ir/faculties/khazaei)
-
 **Location:**
 Sharif University of Technology, Tehran, Iran
 
